@@ -1,0 +1,5 @@
+https://www.ime.usp.br/~macmulti/
+- Site da USP para fazer exercícios em Python
+
+https://judge.beecrowd.com/pt/login?redirect=%2Fpt
+- Site para fazer exercícios de programação
