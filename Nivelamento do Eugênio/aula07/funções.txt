@@ -1,0 +1,1 @@
+Subprogramas: Quando um trecho de programa é repetido de forma recorrente, podemos criar uma função ou procedimento. Uma função resulta em um valor, enquanto um procedimento apenas executa algum có
