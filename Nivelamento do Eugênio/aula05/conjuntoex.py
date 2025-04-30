@@ -1,6 +1,6 @@
 '''
 
-Conjunto - valores entre chaves {}
+Conjunto - valores entre chaves sem ordem {}
 
 
 '''

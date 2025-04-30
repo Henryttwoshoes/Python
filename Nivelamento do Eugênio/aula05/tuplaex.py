@@ -1,3 +1,10 @@
+'''
+
+Tupla - conjunto de valores
+
+'''
+
+
 t = (1,9,3.14, 'aula')
 tuplaVazia = ()
 print(t[0])
