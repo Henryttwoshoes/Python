@@ -1,0 +1,8 @@
+valor = float(input('Digite um valor em metros: '))
+print(f"O valor em km é : {valor*10**-3}")
+print(f"O valor em hm é : {valor*10**-2}")
+print(f"O valor em dam é : {valor*10**-1}")
+print(f"O valor em m é : {valor}")
+print(f"O valor em dm é : {valor*10**1}")
+print(f"O valor em cm é : {valor*10**2}")
+print(f"O valor em mm é : {valor*10**3}")
