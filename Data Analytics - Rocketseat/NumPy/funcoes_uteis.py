@@ -80,3 +80,5 @@ print(f'Matriz ordenada por linha:\n {matriz_linha}')
 # Ordenar por coluna
 matriz_coluna = np.sort(matriz, axis=0)
 print(f'Matriz ordenada por coluna:\n {matriz_coluna}')
+
+print(matriz_coluna.argmax())
